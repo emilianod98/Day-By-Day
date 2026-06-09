@@ -8,7 +8,7 @@ Oficialmente empiezo mi viaje en la programación. 🚀 Mi enfoque es claro: un 
 **Semana 1:** El Tablero y los Cimientos (Días 1 a 7)
 El objetivo de esta semana es dominar la herramienta (Git/GitHub) y asentar las bases sin frustrarte.
 
-- [green] Día 1: Crea tu cuenta de GitHub, instala Git en tu computadora, configura tu perfil y crea tu primer repositorio llamado aprendiendo-programacion. Sube un archivo README.md presentándote.
+- [✔️] Día 1: Crea tu cuenta de GitHub, instala Git en tu computadora, configura tu perfil y crea tu primer repositorio llamado aprendiendo-programacion. Sube un archivo README.md presentándote.
 
 - [✔️] Día 2: Aprende los comandos básicos (git status, git add, git commit, git push). Modifica el archivo de presentación y súbelo.
 
